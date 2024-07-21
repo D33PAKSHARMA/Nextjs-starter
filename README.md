@@ -12,6 +12,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+# add your MONGODB_URI, GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET in .env.local file in root.
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
